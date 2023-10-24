@@ -15,10 +15,10 @@ La aplicación se desarrolla utilizando tecnologías web estándar como HTML, CS
 El diseño de la aplicación se centra en la usabilidad y la experiencia del usuario, con una interfaz limpia y atractiva. Se han aplicado técnicas de diseño responsivo para asegurarse de que la aplicación funcione bien en una variedad de dispositivos y tamaños de pantalla.
 En resumen, la Aplicación de Previsión del Tiempo proporciona una solución simple y efectiva para obtener información actualizada sobre el clima, facilitando la planificación y toma de decisiones para actividades diarias y viajes.
 
---- Equipo --- 
-Aldo González: desarrollo, diseño, contenido, coordinación. 
-Julieta Sosa Belmonte: desarrollo, diseño, contenido, coordinación. 
-Maria Theresa Narciso Lopes: desarrollo, diseño, contenido, coordinación. 
-Paola Desire Baez Marin: desarrollo, diseño, contenido, coordinación.
+Equipo 
+- Aldo González: desarrollo, diseño, contenido, coordinación. 
+- Julieta Sosa Belmonte: desarrollo, diseño, contenido, coordinación. 
+- Maria Theresa Narciso Lopes: desarrollo, diseño, contenido, coordinación. 
+- Paola Desire Baez Marin: desarrollo, diseño, contenido, coordinación.
 
 
